@@ -19,6 +19,11 @@
         "NSPhotoLibraryUsageDescription": "WarrantyVault needs access to your photos so you can attach existing digital receipts to your items.",
         "ITSAppUsesNonExemptEncryption": false
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4b8649b0-539f-49f4-8f67-d38998565c89"
+      }
     }
-  }    
+  }
 }
