@@ -16,9 +16,9 @@
       "bundleIdentifier": "com.yourname.warrantyvault",
       "infoPlist": {
         "NSCameraUsageDescription": "WarrantyVault needs access to your camera to safely scan physical receipts and serial numbers to your local device.",
-        "NSPhotoLibraryUsageDescription": "WarrantyVault needs access to your photos so you can attach existing digital receipts to your items."
+        "NSPhotoLibraryUsageDescription": "WarrantyVault needs access to your photos so you can attach existing digital receipts to your items.",
+        "ITSAppUsesNonExemptEncryption": false
       }
     }
-  }
+  }    
 }
-    
