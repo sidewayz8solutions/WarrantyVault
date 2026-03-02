@@ -2,7 +2,7 @@
   "expo": {
     "name": "WarrantyVault",
     "slug": "WarrantyVault",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -14,6 +14,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.yourname.warrantyvault",
+      "buildNumber": "2",
       "infoPlist": {
         "NSCameraUsageDescription": "WarrantyVault needs access to your camera to safely scan physical receipts and serial numbers to your local device.",
         "NSPhotoLibraryUsageDescription": "WarrantyVault needs access to your photos so you can attach existing digital receipts to your items.",
